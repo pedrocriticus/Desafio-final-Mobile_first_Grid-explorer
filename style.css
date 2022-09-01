@@ -27,6 +27,7 @@
 
 .page {
     width: 38.4rem;
+    height: 100%; 
     margin: 0 auto;
 
     display: flex;
