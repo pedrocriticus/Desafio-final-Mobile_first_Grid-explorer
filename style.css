@@ -89,6 +89,7 @@ header h1 {
 main {
 
     width: 38.4rem;
+    height:100%;
     padding: 0 3.2rem 6rem 3.2rem;
     background:var(--color-bg-1);
 
